@@ -1,0 +1,5 @@
+IP: 158.160.76.146;
+name_taski: https://taski.bounceme.net;
+name_kittygram: https://myhost57.ddns.net;
+login: superuser;
+password: superuser;
